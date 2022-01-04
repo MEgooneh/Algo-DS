@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std ;
-// Range minimum queries - sparse table * in O(n*lg(n) + Q*n)
+// Range minimum queries - sparse table * in O(n*lg(n) + Q)
 int main(){
 	int n , q ; 
 	cin >> n >> q ;
